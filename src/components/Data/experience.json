@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "role": "Web Development Internship",
+        "organisation": "August Infotech",
+        "startDate": "Jan, 2023",
+        "endDate": "to Jun, 2023",
+        "location": ", Surat, Gujarat.",
+        "experiences": [
+            "Worked on Live Projects",
+            "Worked with the frontend technology"
+        ],
+        "imageSrc": "company/august.png"
+    }
+
+
+]
