@@ -1,8 +1,7 @@
 import pdf from "../pdf/VivekDeshmukhResume (8).pdf";
 import hero from "./Data/hero.json";
 import Typed from "typed.js";
-import { useEffect,useRef } from "react";
-
+import { useEffect, useRef } from "react";
 
 const Home = () => {
   const typedRef = useRef(null);
