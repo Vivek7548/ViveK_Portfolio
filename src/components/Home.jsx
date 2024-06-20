@@ -11,7 +11,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Vivek Deshmukh",
-        "I'm full Web developer",
+        "I'm Web developer",
         "Frontend Developer",
       ],
       typeSpeed: 50,
