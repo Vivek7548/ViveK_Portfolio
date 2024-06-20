@@ -18,7 +18,7 @@
         "key": 3,
         "title": "Random Joke",
         "imageSrc": "https://www.codewithrandom.com/wp-content/uploads/2022/11/codewithrandom11.png",
-        "description": "This is a project made with complete Javascript, Css, API fetch and Html.",
+        "description": "This is a project made with Javascript, Css, API fetch and Html.",
         "demo": "https://vivek7548.github.io/JOKE-Project-JS-API/",
         "source": "https://github.com/Vivek7548/JOKE-Project-JS-API.git"
     },
@@ -29,5 +29,19 @@
         "description": "This project use Html, CSS, Javascript and technology.",
         "demo": "https://todo-list-o4jely4he-vivek7548s-projects.vercel.app/",
         "source": "https://github.com/Vivek7548/Todo-List-.git"
+    }, {
+        "key": 5,
+        "title": "Currency Converter",
+        "imageSrc": "https://media.licdn.com/dms/image/D4D12AQFq9CAlVcXr3g/article-cover_image-shrink_720_1280/0/1673980988900?e=2147483647&v=beta&t=g_VjCi_pbE-J4RQRh6xAUZsWh3HQ6jVpIJaw4tEsFaE",
+        "description": "This is a project made with Javascript, Css, API fetch and Html.",
+        "demo": "https://vivek7548.github.io/Currency-Converter-/",
+        "source": "https://github.com/Vivek7548/Currency-Converter-.git"
+    }, {
+        "key": 6,
+        "title": "Calculator",
+        "imageSrc": "https://repository-images.githubusercontent.com/550328136/e9e6cea9-e62e-4c12-83b5-de2a8ee63ea7",
+        "description": "This is a project made with Javascript, Css, and Html.",
+        "demo": "https://vivek7548.github.io/CalculatorApp/",
+        "source": "https://github.com/Vivek7548/CAlcus.git"
     }
 ]
