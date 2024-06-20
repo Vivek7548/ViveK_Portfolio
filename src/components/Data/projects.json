@@ -9,7 +9,7 @@
     {
         "key": 2,
         "title": "Weather App",
-        "imageSrc": "../Images project/2.png",
+        "imageSrc": "https://i.ytimg.com/vi/S9NOXjdipl4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5kbDLrc6hzcf_27aVON0CBkEdRg",
         "description": "This is a project made with react.js, html, css, javascript",
         "demo": "https://weather-app-react-css-1-vivek7548.onrender.com/",
         "source": "https://github.com/Vivek7548/Weather-app-react-css.git"
