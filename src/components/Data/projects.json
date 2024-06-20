@@ -43,5 +43,13 @@
         "description": "This is a project made with Javascript, Css, and Html.",
         "demo": "https://vivek7548.github.io/CalculatorApp/",
         "source": "https://github.com/Vivek7548/CAlcus.git"
+    },
+    {
+        "key": 7,
+        "title": "Hotel Website",
+        "imageSrc": "https://code-projects.org/wp-content/uploads/2017/11/Screenshot-10441000.png",
+        "description": "This is a project made with Css and Html.",
+        "demo": "https://vivek7548.github.io/viveksandysky/",
+        "source": "https://github.com/Vivek7548/sandy-hotel.git"
     }
 ]
