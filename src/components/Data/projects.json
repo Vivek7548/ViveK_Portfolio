@@ -3,8 +3,8 @@
         "title": "Personal Portfolio (React.js)",
         "imageSrc": "../Images project/4.png",
         "description": "This is a project made with complete React js.",
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://vive-k-portfolio.vercel.app/",
+        "source": "https://github.com/Vivek7548/ViveK_Portfolio.git"
     },
     {
         "key": 2,
