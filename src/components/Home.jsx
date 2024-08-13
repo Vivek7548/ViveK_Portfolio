@@ -1,4 +1,4 @@
-import pdf from "../pdf/My Resume (1).pdf";
+import pdf from "../pdf/VivekDeshmukhResume (7).pdf";
 import hero from "./Data/hero.json";
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
