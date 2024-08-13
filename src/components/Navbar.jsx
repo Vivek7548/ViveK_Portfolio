@@ -1,10 +1,10 @@
-
 const Navbar = () => {
   return (
     <>
-      <div className="container nav_bar"
-      data-aos="fade-down"
-      data-aos-duration="1000" 
+      <div
+        className="container nav_bar"
+        data-aos="fade-down"
+        data-aos-duration="1000"
       >
         <div className="left nav_items">Portfolio</div>
         <div className="right">
