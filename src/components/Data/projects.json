@@ -51,5 +51,21 @@
         "description": "This is a project made with Css and Html.",
         "demo": "https://vivek7548.github.io/viveksandysky/",
         "source": "https://github.com/Vivek7548/sandy-hotel.git"
+    },
+    {
+        "key": 8,
+        "title": "Tic Tac Toe",
+        "imageSrc": "https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb698a8caa203d21688c9_tic_tac_toe_game_in_react_OG_Image_f744b32488.jpg",
+        "description": "Interactive Tic Tac Toe Game Built with React, HTML, and CSS",
+        "demo": "https://tict-tac-toe-react.netlify.app/",
+        "source": "https://github.com/Vivek7548/ViveK_Portfolio"
+    },
+    {
+        "key": 9,
+        "title": "Event Management Application UI",
+        "imageSrc": "https://images.shiksha.com/mediadata/shikshaOnline/mailers/2022/naukri-learning/what-is/event-management.jpg",
+        "description": "Application Built with React, Css",
+        "demo": "https://event-management-markytics.vercel.app/",
+        "source": "https://github.com/Vivek7548/event-management-markytics"
     }
 ]
